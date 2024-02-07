@@ -1,0 +1,298 @@
+
+/* this is logo */
+/* #a1{
+    width: 50px;
+    height: 50px;
+} */
+/* this is options */
+/* #a2{
+    float:right;
+    margin-right: 150px;
+} */
+/* this is search bar */
+/* #a3{
+    width: 500px;
+    margin-left: 5px;
+    margin-top: -50px;
+    outline: none;
+    border: none;
+} */
+/* this is (trending this week) */
+/* #a4{
+    text-align: center;
+} */
+/* this is the border of search bar */
+/* #a5{
+    border: 2px black solid;
+    width: 535px;
+    height: 20px; 
+    margin-left: 150px;
+} */
+/* this is icon for search bar */
+/* #a6{
+    padding-top: 2px;
+} */
+/* this is heading and text for the book image */
+
+
+/* this is options */
+/* .b1{
+    margin-left: 10px;
+} */
+/* this div for the bboks */
+/* .b2{
+    float: left;
+    width: 19%;
+    border: 9px white solid;
+    margin-left: 0.5px;
+} */
+/* this is book image */
+/* .b3{
+    width: 100%;
+    height: 500px;
+} */
+/* this is for header */
+/* .b4{
+    float: left;
+    width: 32%;
+}
+
+p{
+    text-align: center;
+}
+.break{
+    height: 0px;
+}  */
+
+
+#a1{
+    width: 150px;
+    height: 150px;
+}
+#a2{
+    float: right;
+    margin-right: -250px;
+    padding-top: 75px;
+}
+#a5{
+    border: 2px black solid;
+    width: 535px;
+    height: 20px; 
+}
+#a6{
+    padding-top: 2px;
+}
+#a3{
+    width: 500px;
+    outline: none;
+    border: none;
+}
+.b1{
+    margin-left: 10px;
+}
+.b4{
+    float: left;
+    width: 33%;
+}
+#nav{
+    height: 150px;
+}
+#search{
+    padding-top: 75px;
+}
+#text{
+    text-align: center;
+    background-color: rgb(236, 197, 145);
+}
+.b3{
+    width: 100%;
+    height: 500px;
+}
+.b2{
+    float: left;
+    width: 19%;
+    border: 9px white solid;
+    margin-left: 0.5px;
+    background-color: rgb(233, 134, 103);
+}
+/* #divfordelivery{
+    height: 10%;
+} */
+.procedure{
+    float: left;
+    width: 24%;
+    background-color: rgb(236, 170, 108);
+    border: 9.5px rgb(236, 170, 108) solid;
+}
+.unique1{
+    text-align: justify;
+}
+.unique2{
+    text-align: justify;
+}
+.unique3{
+    text-align: justify;
+}
+.unique4{
+    text-align: justify;
+}
+#flash{
+    margin-top: 175px;
+    background-color: rgb(216, 170, 44);
+}
+#text2{
+    text-align: justify;
+    width: 30%;
+}
+#text3{
+    text-align: center;
+}
+#text4{
+    margin-left: 200px;
+}
+/* #button{
+    margin-top: ;
+} */
+.checked{
+    color: coral;
+}
+.sale{
+    float: left;
+    width: 49%;
+    border: 99px rgb(216, 170, 44) solid;
+    height: 410px;
+    background-color: rgb(216, 170, 44);
+}
+#gif{
+    width: 100%;
+}
+.image{
+    float: left;
+    width: 47%;
+    border: 13.9px rgb(255, 255, 255) solid;
+    background-color: rgb(255, 255, 255);
+}
+#book{
+    text-align: center;
+}
+#book2{
+    padding-top:30px;
+}
+#book3{
+    padding-top: 30px;
+}
+.image2{
+    height: 340px;
+}
+.image1{
+    height: 370px;
+}
+#textalignment{
+    text-align: center;
+}
+.align{
+    float: left;
+    width: 24%;
+    height: 450px;
+    border: 9.5px rgb(255, 162, 22) solid;
+    text-align: center;
+}
+.image3{
+    width: 150px;
+    height: 200px;
+    padding: 25px;
+}
+#align1{
+    height: 50px;
+    width: 150px;
+    margin-left: 860px;
+    margin-bottom: 50px;
+}
+#a7{
+    background-color: rgb(255, 162, 22);
+}
+#text1{
+    text-align: center;
+}
+#maintest{
+    text-align: justify;
+}
+.test{
+    padding: 10px;
+    border: 8.9px rgb(255, 255, 255) solid;
+    float: left;
+    width: 23%;
+    height: 180px;
+}
+#subscription{
+    margin-top: 200px;
+}
+.subscription1{
+    padding: 10px;
+    width: 30%;
+    height: 120px;
+    border: 21px rgb(236, 107, 1) solid;
+    background-color: rgb(236, 107, 1);
+    float: left;
+}
+#subscribe{
+    text-align: center;
+}
+.subscribe1{
+    width: 48%;
+    float: left;
+    height: 120px;
+    background-image: url(./image/Background/images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.space{
+    padding-top: 50px;
+}
+.space1{
+    padding-top: 70px;
+    text-align: center;
+    align-content: center;
+    height: 100px;
+    width: 51.9%;
+}
+.f{
+    border: 9px rgb(255, 255, 255) solid;
+    float: left;
+    width: 24%;
+    height: 350px;
+}
+.f1{
+    text-align: center;
+}
+#p{
+    padding: 15px;
+    text-align: justify;
+}
+.link{
+    text-decoration: none;
+    color: rgb(102, 92, 92);
+    
+}
+.f2{
+    text-align: center;
+}
+.f3{
+    text-align: center;
+}
+.f4{
+    text-align: center;
+}
+#sub{
+    height: 40px;
+    width: 200px;
+    background-color: rgba(121, 112, 112, 0.178);
+}
+#sub1{
+    height: 45px;
+    width: 100px;
+    background-color: rgb(223, 178, 56);
+}
+.copy{
+    text-align: center;
+}
